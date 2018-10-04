@@ -168,6 +168,7 @@
             <groupId>com.wakaleo.gameoflife</groupId>
     <artifactId>gameoflife</artifactId>
           </executableDependency>
+		  </configuration>
       </plugin>
         </plugins>
 
